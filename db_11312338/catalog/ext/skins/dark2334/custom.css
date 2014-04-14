@@ -1,0 +1,21 @@
+body{color:#eee;background: #1c2c38 url(images/bluewall.png);}
+.infoBoxContainer {margin-bottom:5px;}
+.infoBoxHeading {padding:7px 4px;}
+.ui-widget-header {color: #fff;text-shadow:none;background: #e6e6e6 url(images/bluebar.png) repeat-x;border: 1px solid #168dd9;}
+.ui-widget-header A, .ui-widget-header A:visited{color: #fff;}
+.ui-widget-header A:hover{color:#cce5fe;}
+.ui-widget-content{border:1px solid #144767;background:#334957;color:#eee;}
+.ui-widget-content A, .ui-widget-content A:visited{color: #eee;}
+.ui-widget-content A:hover{color:#66ccff;}
+A.headerNavigation{color:#fff;}
+A.headerNavigation:hover{color:#cce5fe;}
+.headerInfo{float:right;color:#b3d6ec;}
+.headerInfo a{color:#fff;}
+.headerInfo a:hover{color:#cce5fe;}
+.headerSearch{height:25px;width:300px;}
+.ui-toggle-switch label {color: #FFF;}
+.ui-toggle-switch .ui-state-active {background: transparent;color: #FFF;}
+.modalDemo p {color: #AAA;}
+.modalDemo p a {color: #50b1ff;}
+A,A:visited{color: #fff;}
+A:hover{color:#66ccff;}
